@@ -217,7 +217,7 @@
 
             // Send to FormSubmit.co (works on GitHub Pages, no account needed)
             // Replace 'your-email@example.com' with your actual email address
-            const response = await fetch('https://formsubmit.co/goonerman854@gmail.com', {
+            const response = await fetch('https://formsubmit.co/999f2f85acc6e77cf39e1c7b96308eff', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
